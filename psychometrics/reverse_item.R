@@ -1,4 +1,4 @@
-# Takes a vector containg item data and reverse the values.
+# Takes a numeric vector containg item data and reverses the values.
 
 reverse_item <- function(item, minimum = NULL, maximum = NULL) {
 
